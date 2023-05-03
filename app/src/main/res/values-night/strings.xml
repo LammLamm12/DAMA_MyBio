@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">DAMA_MyBio</string>
     <string name="what_is_your_nickname">What is your nickname?</string>
     <string name="insert_your_nickname">Insert your nickname</string>
     <string name="done">Done</string>
-    <string name="users_cv">Lorem Ipsum</string>
+    <string name="users_cv">Users CV</string>
     <string name="users_nick">Users Nickname</string>
     <string name="hint">Guess</string>
     <string name="nane">LuísAMMendes</string>
